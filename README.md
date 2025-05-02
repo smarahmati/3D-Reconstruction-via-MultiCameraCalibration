@@ -77,7 +77,7 @@ recover 3D coordinates of object points observed by two or more cameras.
 <p align="center">
   <b>Figure 3.</b> 3D positions and orientations of the cameras and chessboard in the chosen coordinate system.
   (<a href="https://github.com/smarahmati/3D-Reconstruction-with-MultiCameraCalibration/tree/master/results">
-    This figure was created with Plotly as an HTML file; please download it and open in a web browser to view the interactive visualization (Calibration3DVis_withChessAndSTL).
+    This figure was created with Plotly as an HTML file; please download it and open in a web browser to view the interactive visualization (Calibration3DVis_withChessAndSTL.html).
   </a>)
 </p>
 
